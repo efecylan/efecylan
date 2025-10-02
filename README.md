@@ -1,4 +1,6 @@
-[![MasterHead](https://giphy.com/explore/iron-man-endgame)
+<p align="center">
+    <img src="https://giphy.com/explore/iron-man-endgame>
+</p>
 <h1 align="center">Hi 👋, I'm Şükrü Efe Ceylan</h1>
 <h3 align="center">Computer Engineering @ ZBEU | Coding & Cybersecurity</h3>
 
