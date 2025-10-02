@@ -1,4 +1,6 @@
-<img src="https://giphy.com/explore/iron-man-comic" width="auto">
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5scHRzYWIyN2l2aWRpNjZ3eHNwejl0NGZ3ejZiaWxweDFqMzRlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6n8QfoQhIoKWR9uLt5/giphy.gif" alt="Merhaba!"/>
+</p>
 <h1 align="center">Hi 👋, I'm Şükrü Efe Ceylan</h1>
 <h3 align="center">Computer Engineering @ ZBEU | Coding & Cybersecurity</h3>
 
