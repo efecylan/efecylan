@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="[https://linkedin.com/in/şükrü efe ceylan](https://www.linkedin.com/in/%C5%9Fef/)" target="_blank">
+  <a href="https://www.linkedin.com/in/%C5%9Fef/?skipRedirect=true" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
