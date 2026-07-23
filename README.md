@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  C# • WPF • XAML • C++ • Python • Cybersecurity
+  C# • WPF • XAML • C • C++ • Python
 </p>
 
 ---
@@ -21,7 +21,7 @@
 - 🎓 Computer Engineering student at **Zonguldak Bülent Ecevit University**
 - 💻 Developing desktop applications with **C# and WPF**
 - 📁 Currently working on **SmartFolder**
-- 🌱 Learning **software development and cybersecurity**
+- 🌱 Learning **software development and hardware**
 - 📫 Reach me at **sukruefeceylan@gmail.com**
 
 ---
